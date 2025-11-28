@@ -1,0 +1,28 @@
+.sfondo-rosso{
+    background-color: red;
+    color:white
+}
+
+.testo-centrato{
+    text-align:center;
+    
+}
+
+.bordo{
+    table-layout: auto;
+    width: 100%; 
+    border: 1px solid black;
+}
+
+th,td{
+    border: 1px solid black;
+}
+
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+} 
+
+*{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
