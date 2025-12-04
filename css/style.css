@@ -1,3 +1,6 @@
+body{
+    background-image: url(./img/logo.svg);
+}
 .sfondo-rosso{
     background-color: red;
     color:white
@@ -23,12 +26,7 @@ table{
     border: 1px solid black;
 } 
 
-*{ 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
 
-#redsox:hover{
-    background-color: green;
-    text-decoration: underline;
-    transition: all 0,3s;
-}
+
+
+
